@@ -1,0 +1,31 @@
+#hero {
+    width: 100%;
+    height: 100vh;
+    background-color: #fffbf0;
+}
+
+#hero .col {
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+
+#hero .hero-img img {
+    width: 539px;
+    height: 438px;
+}
+
+.col-lg-6 h1 {
+    font-size: 3.5rem;
+}
+
+.btn-custom {
+    padding: 1rem 2rem;
+    background-color: #ef613d;
+    width: 40%;
+    border-radius: 50px;
+}
+
+.navbar-size {
+    font-size: 1.3rem;
+}
